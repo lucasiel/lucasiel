@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lucasiel
-- 👀 I’m interested in moms
-- 🌱 I’m currently learning momd
-- 💞️ I’m looking to collaborate on moms
-- 📫 How to reach me moms
+Hey, I'm noobes, a C/C++, x86 Assembly and C# programmer who studies philosophy lmfao
 
-<!---
-lucasiel/lucasiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasiel&layout=compact&bg_color=22272E&border_color=444C56&border_radius=6&text_color=ADBAC7)](https://github.com/anuraghazra/github-readme-stats)
